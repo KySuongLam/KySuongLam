@@ -57,3 +57,15 @@
     <img width="12" />
     
 ---
+
+## 📚 Languages & Interests
+🌏 Languages: English, Vietnamese, Mandarin.  
+🎯 Hobbies: Video Games, VR Games, Charity, Mobile Development, Exploring Emerging Technologies.
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ky-suong-lam-72460a28b)   
+📧 Email: lamkisuong123@gmail.com  
+
+---
