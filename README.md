@@ -1,16 +1,14 @@
-## Hi there 👋
+# Xin Chào👋 I'm Ky Suong Lam!
 
-<!--
-**KySuongLam/KySuongLam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student at Bellevue College | Software Developer Engineer.  
+⚡ Passionate about Mobile App Development, Game Development, Artificial Intelligence (AI), Full-Stack Development, and Backend Systems.  
+🚀 Seeking opportunities to contribute to creative and impactful projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements
+🎓 BS in Computer Science – Bellevue College 🌟 GPA: 3.9  (Expected Dec 2025)  
+🤖 Finalist – Vietnam Robotacon Competition (2017).  
+🏅 Microsoft Office Specialist (MOS) Certification 
+
+---
