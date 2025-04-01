@@ -7,9 +7,9 @@
 ---
 
 ## 🏆 Achievements
-🎓 **Bachelor of Science in Computer Science** at Bellevue College 🌟 **GPA: 3.9**  (Expected Dec 2025)  
-🤖 **Finalist – Vietnam Robotacon Competition (2017).**  
-🏅 **Microsoft Office Specialist (MOS) Certification** 
+- 🎓 **Bachelor of Science in Computer Science** at Bellevue College 🌟 **GPA: 3.9**  (Expected Dec 2025)  
+- 🤖 **Finalist – Vietnam Robotacon Competition (2017).**  
+- 🏅 **Microsoft Office Specialist (MOS) Certification** 
 
 ---
 
@@ -56,6 +56,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
     <img width="12" />
     
+---
+
+## 💼 Experience 
+- 📱 **PRL Mobile Application Internship** – Pyramid Recruitment Ltd (Software Engineer)  
+- 🔬 **Open Source Micro-Internship** – Open Energy Dashboard (Software Engineer)  
+
+---
+
+## 🚀 Projects
+- 🎮 **GoDex** – A Java app that enhances the Pokémon Go experience by fetching real-time encounter data via the PoGo API. Features a smart search for 1000+ Pokémon (Gen 1-9) by name, ID, generation, or type.  
+- 🎵 **MelodyLinks Music Box** – A C++ music playlist manager using a template-based doubly linked list, custom memory management, and Quick Sort for optimization. Features a menu-driven interface with CRUD operations, sorting, and search functionality.   
+- 🌦 **WeatherWise** – A Java-based weather app that displays real-time weather and maps for any city using Google Maps and OpenWeather APIs. Features an intuitive UI with temperature, wind speed, humidity, and more.  
+
+**More detail:** [Please check out my GitHub Repositories.](https://github.com/KySuongLam?tab=repositories)  
+
 ---
 
 ## 📚 Languages & Interests
