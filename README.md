@@ -1,4 +1,8 @@
-# Xin Chào👋 I'm Ky Suong Lam!
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EverettHanke.EverettHanke&" />
+</div>
+
+# Xin Chào👋 I'm Ky Suong Lam! 
 
 💻 **Computer Science Student** at Bellevue College | **Software Developer Engineer**.  
 ⚡ Passionate about **Mobile App Development**, **Game Development**, **AI**, **Full-Stack Development**, and **Backend Systems**.  
