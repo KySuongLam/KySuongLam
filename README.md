@@ -50,6 +50,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" height="50" alt="dynamodb logo"  />
     <img width="12" /> 
+    <img src="https://img.icons8.com/?size=80&id=UFF3hmipmJ2V&format=png" height="50" alt="sql logo"  />
+    <img width="12" /> 
     <img src="https://www.svgrepo.com/show/353447/aws-cognito.svg" height="50" alt="cognito logo"  />
     <img width="12" /> 
 </div></td><td valign="top" width="33%">
