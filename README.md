@@ -74,6 +74,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
     <img width="12" />
+    <img src="https://th.bing.com/th/id/OIP.eueTHBpr4VgKlT7AzIEBRQHaHa?rs=1&pid=ImgDetMain" height="60" alt="androidstudio logo"  />
+    <img width="12" />
 </div></td></tr></table>  
 <br/>  
     
@@ -103,8 +105,11 @@
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'>
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ky-suong-lam-72460a28b)   
-📧 Email: lamkisuong123@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ky-suong-lam-72460a28b)
+[![GitHub](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kysuonglam)
+[![Facebook](https://img.shields.io/badge/Facebook-17A9FD?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suong.lamky.5/)
+![Instagram](https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)  
+![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white) lamkisuong123@gmail.com  
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KySuongLam/KySuongLam/output/snake.svg" alt="Snake animation" />
