@@ -2,10 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=kysuonglam&label=Profile%20views&color=0e75b6&style=flat"alt="kysuonglam"/> 
 </p>
 
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<div align="center" width="50">
+  <img src="https://github.com/KySuongLam/KySuongLam/blob/main/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br> 
+</div>
 
-
-# Xin Chào <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> , I'm Ky Suong Lam! 
+# Xin Chào <img src="https://github.com/KySuongLam/KySuongLam/blob/main/pikawave.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40"/>  , I'm Ky Suong Lam! 
 
 💻 **Computer Science Student** at Bellevue College | **Software Developer Engineer**.  
 ⚡ Passionate about **Mobile App Development**, **Game Development**, **AI**, **Full-Stack Development**, and **Backend Systems**.  
@@ -94,6 +95,7 @@
 🎯 Hobbies: Video Games, VR Games, Charity, Mobile Development, Exploring Emerging Technologies.
 
 ---
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'>
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ky-suong-lam-72460a28b)   
