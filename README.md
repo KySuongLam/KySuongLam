@@ -95,13 +95,12 @@
 🎯 Hobbies: Video Games, VR Games, Charity, Mobile Development, Exploring Emerging Technologies.
 
 ---
+
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'>
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ky-suong-lam-72460a28b)   
 📧 Email: lamkisuong123@gmail.com  
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KySuongLam/KySuongLam/output/snake.svg" alt="Snake animation" />
