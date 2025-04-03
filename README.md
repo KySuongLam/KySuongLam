@@ -107,7 +107,7 @@
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ky-suong-lam-72460a28b)
 [![GitHub](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kysuonglam)
-[![Facebook](https://img.shields.io/badge/Facebook-17A9FD?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suong.lamky.5/)
+![Facebook](https://img.shields.io/badge/Facebook-17A9FD?style=for-the-badge&logo=facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)  
 ![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white) lamkisuong123@gmail.com  
 
